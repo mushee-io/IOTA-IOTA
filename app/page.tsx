@@ -172,7 +172,7 @@ export default function LandingPage() {
                 Black and white prelanding
               </div>
               <h1 className="mt-6 max-w-4xl text-5xl font-semibold leading-tight sm:text-6xl lg:text-7xl">
-                A real landing page for the IOTA trust product you should have shipped the first time.
+                IF IT AIN'T IOTA, THEN WHAT ?.
               </h1>
               <p className="mt-6 max-w-2xl text-base text-zinc-300 sm:text-lg">
                 This version separates the public story from the product dashboard. The homepage sells the vision. The dashboard shows the working demo. That is the structure the last zip was missing.
